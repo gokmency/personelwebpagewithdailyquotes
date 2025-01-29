@@ -1,4 +1,4 @@
-# Motivational Quotes
+# Personal WebPage With Motivational Quotes
 
 A beautiful, theme-aware motivational quotes application built with Next.js, TypeScript, and DaisyUI. Features multilingual quotes with elegant animations and theme-specific fonts.
 
